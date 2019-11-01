@@ -1,0 +1,1750 @@
+==========
+generating dress number 0
+Babydoll
+parts:
+{'other': {'Buttons center front'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt', 'Skirt hem'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps', 'Shoulder strap'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Pink light
+all colors
+['Orange dark', 'Pink normal', 'Pink light']
+main material: Satin
+all materials
+['Satin', 'Silk']
+==========
+generating dress number 1
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'waistline', 'Waist', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Purple normal
+all colors
+['Purple normal']
+main material: Plastic
+all materials
+['Plastic', 'Fur']
+==========
+generating dress number 2
+Jeans
+parts:
+{'leg': {'Leg', 'Long leg'},
+ 'leg details': {'Crotchbuttons', 'vent'},
+ 'other': {'waistline', 'zipper', 'Bow'},
+ 'upper details': {'waistband'}}
+main color: White
+all colors
+['Red dark', 'Black', 'White', 'Pink light', 'Gray light']
+main material: Twill
+all materials
+['Twill', 'Fishnet']
+==========
+generating dress number 3
+Coat
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'leg details': {'vent'},
+ 'other': {'belt', 'fringe'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Coat tails', 'Skirt hem'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Orange normal
+all colors
+['Orange normal']
+main material: Silk
+all materials
+['Silk', 'Metal', 'Lace']
+==========
+generating dress number 4
+Raincoat
+parts:
+{'collar': {'Collar', 'v neck'},
+ 'other': {'Hip pocket', 'waistline', 'Patch pocket'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Brown normal
+all colors
+['Brown normal', 'Black', 'White']
+main material: Gabardine
+all materials
+['Gabardine', 'Fur', 'Jersey']
+==========
+generating dress number 5
+Lab coat
+parts:
+{'collar': {'Collar', 'Stand collar'},
+ 'other': {'Hip pocket', 'Buttons center front'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light']
+main material: Jute
+all materials
+['Jute', 'Metal']
+==========
+generating dress number 6
+Kimono
+parts:
+{'collar': {'Collar', 'Wing collar'},
+ 'other': {'belt', 'Hem'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Orange dark
+all colors
+['Orange dark', 'Pink light', 'Pink dark']
+main material: Flax
+all materials
+['Flax', 'Silk']
+==========
+generating dress number 7
+Wedding dress
+parts:
+{'collar': {'Collar', 'Lapel collar'},
+ 'leg details': {'vent', 'Stays'},
+ 'other': {'waistline', 'belt', 'strap'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Underskirt', 'Train (of a dress)'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff buttons'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'bustboning', 'Breast pocket'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light', 'Blue light', 'Purple light', 'Pink dark']
+main material: Poplin
+all materials
+['Poplin', 'Jersey', 'Fishnet']
+==========
+generating dress number 8
+Wedding dress
+parts:
+{'collar': {'Collar', 'Lapel collar'},
+ 'leg details': {'vent', 'Stays'},
+ 'other': {'Hip pocket', 'waistline', 'zipper', 'Hem'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast pocket', 'Breast'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Red light
+all colors
+['Red light', 'Pink light', 'Black']
+main material: Wool
+all materials
+['Wool', 'Leather']
+==========
+generating dress number 9
+Negligee
+parts:
+{'collar': {'Shawl collar'},
+ 'other': {'Buttons center front', 'Lacing'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast', 'Spagetthi straps', 'Shoulder strap'},
+ 'upper front panel': {'Upper front panel', 'Bodice front'}}
+main color: Yellow normal
+all colors
+['Yellow normal', 'Pink light']
+main material: Horsehair
+all materials
+['Horsehair', 'Tweed', 'Cashmere']
+==========
+generating dress number 10
+blouse
+parts:
+{'collar': {'Collar', 'Jabot collar'},
+ 'leg details': {'vent'},
+ 'other': {'fringe', 'Side split'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Fly', 'Shoulder strap'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Brown normal
+all colors
+['Brown normal', 'Black']
+main material: Leather
+all materials
+['Leather', 'Lace']
+==========
+generating dress number 11
+Coat
+parts:
+{'collar': {'Collar', 'v neck'},
+ 'leg details': {'vent'},
+ 'other': {'fringe', 'Patch pocket', 'Bow'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails', 'Skirt hem'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast', 'shoulder', 'Shoulder scarf'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Red light
+all colors
+['Red light', 'Pink light', 'Black', 'Red dark', 'Red normal']
+main material: Linen
+all materials
+['Linen', 'Lace']
+==========
+generating dress number 12
+Wedding dress
+parts:
+{'collar': {'Collar', 'Turtle neck'},
+ 'leg details': {'vent', 'Stays'},
+ 'other': {'waistline', 'patch', 'Hem', 'Bow'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Underskirt', 'Skirt hem', 'Train (of a dress)'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Shoulder scarf', 'bustboning', 'Shoulder strap'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Pink light
+all colors
+['Pink light', 'Orange dark']
+main material: Calico
+all materials
+['Calico', 'Velvet', 'Satin']
+==========
+generating dress number 13
+Ball gown
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'leg details': {'seat'},
+ 'other': {'Hip pocket', 'belt', 'patch', 'Hem'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Skirt hem', 'Coat tails', 'Train (of a dress)'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Breast pocket', 'Tie', 'Shoulder strap'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Orange normal
+all colors
+['Orange normal']
+main material: Rayon
+all materials
+['Rayon', 'Jersey']
+==========
+generating dress number 14
+Leotard
+parts:
+{'collar': {'neckline'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark', 'Blue light']
+main material: Fur
+all materials
+['Fur', 'Gabardine']
+==========
+generating dress number 15
+Ball gown
+parts:
+{'collar': {'Collar', 'v neck'},
+ 'leg details': {'seat'},
+ 'other': {'Buttons center front',
+           'Hip pocket',
+           'Side split',
+           'patch',
+           'strap'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Underskirt', 'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Purple light
+all colors
+['Purple light', 'Pink light']
+main material: Fur
+all materials
+['Fur', 'Gabardine', 'Denim', 'Feathers']
+==========
+generating dress number 16
+Ball gown
+parts:
+{'collar': {'Collar', 'Turtle neck'},
+ 'leg details': {'seat'},
+ 'other': {'belt', 'strap'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Underskirt'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast pocket', 'Tie', 'Shoulder strap'},
+ 'upper front panel': {'Bodice front'}}
+main color: Yellow light
+all colors
+['Yellow light', 'Pink light', 'Blue light']
+main material: Cotton
+all materials
+['Cotton', 'Mohair', 'Lace', 'Denim']
+==========
+generating dress number 17
+Lab coat
+parts:
+{'collar': {'Collar', 'Scoop neck'},
+ 'other': {'Hip pocket', 'Side split'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Green dark
+all colors
+['Green dark', 'Blue normal']
+main material: Felt
+all materials
+['Felt', 'Satin']
+==========
+generating dress number 18
+Bustier
+parts:
+{'collar': {'neckline'},
+ 'leg details': {'vent'},
+ 'other': {'zipper'},
+ 'sleeve': {'Wide sleeve'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps', 'bustboning'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Yellow light
+all colors
+['Yellow light', 'Pink light', 'Blue light']
+main material: Gauze
+all materials
+['Gauze', 'Lace']
+==========
+generating dress number 19
+Bustier
+parts:
+{'collar': {'neckline'},
+ 'leg details': {'vent'},
+ 'other': {'Buttons center front', 'belt'},
+ 'sleeve': {'Wide sleeve'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps', 'waistband'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark']
+main material: Jute
+all materials
+['Jute', 'Metal']
+==========
+generating dress number 20
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'Lacing', 'waistline', 'strap'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Purple dark
+all colors
+['Purple dark', 'Black']
+main material: Brocade
+all materials
+['Brocade', 'Latex', 'Velvet', 'Lace']
+==========
+generating dress number 21
+Wedding dress
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'leg details': {'Stays', 'seat'},
+ 'other': {'Buttons center front', 'belt', 'zipper', 'Patch pocket'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit', 'Underskirt', 'Skirt hem'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Breast pocket', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: White
+all colors
+['White']
+main material: Leather
+all materials
+['Leather', 'Lace', 'Velvet']
+==========
+generating dress number 22
+Wedding dress
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'leg details': {'Stays', 'seat'},
+ 'other': {'fringe', 'Side split', 'Hem'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Skirt hem'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast', 'Spagetthi straps', 'bustboning'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Blue light
+all colors
+['Blue light', 'Black', 'Blue dark']
+main material: Rubber
+all materials
+['Rubber', 'Taffeta']
+==========
+generating dress number 23
+Cocktail dress
+parts:
+{'collar': {'Turtle neck'},
+ 'other': {'Tied belt', 'Hem', 'Bow'},
+ 'skirt': {'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Orange light
+all colors
+['Orange light']
+main material: Hemp
+all materials
+['Hemp', 'Mohair']
+==========
+generating dress number 24
+Jeans
+parts:
+{'leg': {'Short leg', 'Leg', 'Tight leg'},
+ 'leg details': {'Turn-up (trousers)'},
+ 'other': {'Waist', 'Bow'},
+ 'upper details': {'waistband'}}
+main color: White
+all colors
+['White', 'Red dark']
+main material: Silicone
+all materials
+['Silicone', 'Velvet']
+==========
+generating dress number 25
+bikini
+parts:
+{'leg details': {'Stays', 'Crotch'},
+ 'other': {'belt', 'strap'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Pink normal
+all colors
+['Black', 'Pink normal']
+main material: Latex
+all materials
+['Latex', 'Gauze', 'Jersey']
+==========
+generating dress number 26
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'Waist', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Blue normal
+all colors
+['Black', 'Blue normal']
+main material: Twill
+all materials
+['Twill', 'Fishnet']
+==========
+generating dress number 27
+Jeans
+parts:
+{'leg': {'Straight leg', 'Leg'},
+ 'leg details': {'Crotchbuttons', 'vent'},
+ 'other': {'Hip pocket', 'belt', 'Waist', 'Side split', 'Lacing'},
+ 'upper details': {'waistband'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark']
+main material: Jersey
+all materials
+['Jersey', 'Leather']
+==========
+generating dress number 28
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'waistline', 'Waist', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark', 'White', 'Yellow light']
+main material: Horsehair
+all materials
+['Horsehair', 'Tweed', 'Cashmere']
+==========
+generating dress number 29
+T-shirt
+parts:
+{'collar': {'Collar', 'Turtle neck'},
+ 'other': {'Waist'},
+ 'sleeve': {'Wide sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband', 'shoulder'},
+ 'upper front panel': {'Upper front panel', 'Waterfall front'}}
+main color: Pink normal
+all colors
+['Black', 'Pink normal', 'Pink light', 'Red light']
+main material: Jute
+all materials
+['Jute', 'Metal', 'Leather']
+==========
+generating dress number 30
+bra
+parts:
+{'other': {'strap'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Green dark
+all colors
+['Green dark', 'Blue normal', 'Pink light', 'Pink dark']
+main material: Polyester
+all materials
+['Polyester', 'Jersey']
+==========
+generating dress number 31
+T-shirt
+parts:
+{'collar': {'Collar', 'v neck'},
+ 'other': {'Waist', 'Hem'},
+ 'sleeve': {'Wide sleeve'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Waterfall front'}}
+main color: Gray light
+all colors
+['Black', 'White', 'Blue light', 'Gray light']
+main material: Pvc
+all materials
+['Fishnet', 'Pvc']
+==========
+generating dress number 32
+blouse
+parts:
+{'collar': {'Collar', 'Wing collar'},
+ 'leg details': {'vent'},
+ 'other': {'Bow'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Fly'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark']
+main material: Horsehair
+all materials
+['Horsehair', 'Tweed']
+==========
+generating dress number 33
+blouse
+parts:
+{'collar': {'Collar', 'v neck'},
+ 'leg details': {'vent'},
+ 'other': {'waistline', 'Patch pocket'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Shoulder strap', 'shoulder'},
+ 'upper front panel': {'Bodice front'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light']
+main material: Grosgrain
+all materials
+['Grosgrain', 'Silk', 'Satin']
+==========
+generating dress number 34
+Babydoll
+parts:
+{'other': {'Bow', 'waistline', 'Waist', 'zipper', 'Buttons center front'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Gray light
+all colors
+['Black', 'White', 'Blue light', 'Gray light']
+main material: Tweed
+all materials
+['Tweed', 'Fur', 'Fishnet', 'Lace']
+==========
+generating dress number 35
+Coat
+parts:
+{'collar': {'Collar', 'Lapel collar'},
+ 'leg details': {'vent'},
+ 'other': {'Tied belt', 'zipper', 'Hem'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Coat tails', 'Skirt hem'},
+ 'sleeve': {'Bat sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Breast pocket', 'Breast', 'waistband'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light', 'Blue light']
+main material: Delaine
+all materials
+['Delaine', 'Mohair', 'Polyester']
+==========
+generating dress number 36
+Apron
+parts:
+{'collar': {'Crew neck'},
+ 'other': {'Patch pocket', 'waistline', 'Hip pocket', 'fringe', 'Hem'},
+ 'skirt': {'Long skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Broad straps'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Brown normal
+all colors
+['Brown normal']
+main material: Rubber
+all materials
+['Rubber', 'Taffeta']
+==========
+generating dress number 37
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'Waist'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light', 'Blue light']
+main material: Velvet
+all materials
+['Velvet']
+==========
+generating dress number 38
+Raincoat
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'other': {'waistline', 'Tied belt', 'Side split'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Coat tails'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Gray normal
+all colors
+['Black', 'Gray normal']
+main material: Rabbit Hair
+all materials
+['Rabbit Hair', 'Jersey', 'Gauze']
+==========
+generating dress number 39
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'waistline', 'Waist', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Green dark
+all colors
+['Green dark', 'Blue normal', 'Pink light']
+main material: Latex
+all materials
+['Latex', 'Gauze', 'Jersey']
+==========
+generating dress number 40
+Jeans
+parts:
+{'leg': {'Straight leg', '3/4 leg', 'Leg'},
+ 'leg details': {'Crotchbuttons', 'Turn-up (trousers)'},
+ 'other': {'Hip pocket', 'Waist', 'Bow'},
+ 'upper details': {'waistband'}}
+main color: Pink normal
+all colors
+['Black', 'Pink normal']
+main material: Flax
+all materials
+['Flax', 'Silk', 'Leather', 'Metal']
+==========
+generating dress number 41
+Hoodie
+parts:
+{'collar': {'v neck'},
+ 'other': {'Patch pocket', 'Hem', 'Bow'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Upper front panel', 'Tight upper front panel'}}
+main color: Green normal
+all colors
+['Green normal', 'Pink dark']
+main material: Jute
+all materials
+['Jute']
+==========
+generating dress number 42
+Ball gown
+parts:
+{'collar': {'Collar', 'Lapel collar'},
+ 'leg details': {'seat'},
+ 'other': {'Hip pocket', 'belt', 'zipper'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Train (of a dress)'},
+ 'sleeve': {'Bat sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Red light
+all colors
+['Red light', 'Pink light', 'Black']
+main material: Jersey
+all materials
+['Jersey', 'Leather']
+==========
+generating dress number 43
+Cocktail dress
+parts:
+{'collar': {'v neck'},
+ 'other': {'belt', 'Lacing', 'Hem'},
+ 'skirt': {'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning', 'Fly', 'waistband'},
+ 'upper front panel': {'Bodice front'}}
+main color: Purple dark
+all colors
+['Purple dark', 'Black', 'Red dark', 'Pink light']
+main material: Rayon
+all materials
+['Rayon', 'Jersey']
+==========
+generating dress number 44
+Leotard
+parts:
+{'collar': {'v neck'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark']
+main material: Silicone
+all materials
+['Silicone', 'Velvet']
+==========
+generating dress number 45
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'waistline', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark']
+main material: Crepe
+all materials
+['Fishnet', 'Chiffon', 'Crepe']
+==========
+generating dress number 46
+Blazer
+parts:
+{'collar': {'Collar', 'neckline'},
+ 'leg details': {'vent'},
+ 'other': {'belt', 'patch', 'Waist'},
+ 'skirt details': {'Coat tails'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow', 'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast', 'Shoulder pad'},
+ 'upper front panel': {'Bodice front'}}
+main color: Red light
+all colors
+['Red light']
+main material: Flannel
+all materials
+['Flannel', 'Jersey', 'Wool']
+==========
+generating dress number 47
+Negligee
+parts:
+{'collar': {'Wing collar'},
+ 'other': {'Buttons center front', 'Side split', 'Hem', 'Bow'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black']
+main material: Cotton
+all materials
+['Cotton', 'Mohair']
+==========
+generating dress number 48
+Raincoat
+parts:
+{'collar': {'Collar', 'Lapel collar'},
+ 'other': {'belt', 'Tied belt'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Yellow normal
+all colors
+['Yellow normal', 'Pink light', 'Blue light']
+main material: Crepe
+all materials
+['Crepe', 'Fishnet']
+==========
+generating dress number 49
+Hoodie
+parts:
+{'collar': {'Turtle neck'},
+ 'other': {'Patch pocket', 'Bow'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Waterfall front'}}
+main color: Yellow light
+all colors
+['Pink light', 'Blue light', 'Pink dark', 'Yellow light']
+main material: Jute
+all materials
+['Jute', 'Metal', 'Leather']
+==========
+generating dress number 50
+Bustier
+parts:
+{'collar': {'Crew neck'},
+ 'leg details': {'vent'},
+ 'other': {'waistline', 'zipper', 'Waist', 'strap'},
+ 'sleeve': {'Puffy sleeve'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps', 'Shoulder strap'},
+ 'upper front panel': {'Bodice front'}}
+main color: Brown normal
+all colors
+['Brown normal', 'Black', 'White', 'Red normal', 'Red dark']
+main material: Mohair
+all materials
+['Mohair', 'Gabardine']
+==========
+generating dress number 51
+Hoodie
+parts:
+{'collar': {'Turtle neck'},
+ 'other': {'Patch pocket', 'Bow'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Upper front panel', 'Tight upper front panel'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black']
+main material: Rubber
+all materials
+['Rubber', 'Taffeta']
+==========
+generating dress number 52
+Coat
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'vent'},
+ 'other': {'zipper'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Coat tails', 'Skirt hem'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast pocket', 'Breast'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Gray light
+all colors
+['Gray light', 'Black', 'White']
+main material: Muslin
+all materials
+['Muslin', 'Lace', 'Leather', 'Silk']
+==========
+generating dress number 53
+bikini
+parts:
+{'leg details': {'Crotch', 'seat'},
+ 'other': {'fringe', 'strap'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light']
+main material: Horsehair
+all materials
+['Horsehair', 'Tweed']
+==========
+generating dress number 54
+Hoodie
+parts:
+{'collar': {'v neck'},
+ 'other': {'Hem', 'Bow'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Purple light
+all colors
+['Pink light', 'Black', 'Purple light', 'Orange light', 'Red dark']
+main material: Tweed
+all materials
+['Tweed', 'Fur', 'Fishnet']
+==========
+generating dress number 55
+Raincoat
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'other': {'Hip pocket', 'belt', 'Tied belt', 'Side split'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast', 'Breast pocket'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Brown dark
+all colors
+['Black', 'White', 'Red dark', 'Brown dark']
+main material: Cashmere
+all materials
+['Cashmere', 'Latex']
+==========
+generating dress number 56
+Jeans
+parts:
+{'leg': {'Leg', 'Tight leg'},
+ 'leg details': {'Crotchbuttons', 'knee'},
+ 'other': {'Patch pocket', 'Buttons center front', 'zipper', 'Bow'},
+ 'upper details': {'waistband'}}
+main color: Blue dark
+all colors
+['Blue dark']
+main material: Jute
+all materials
+['Jute', 'Metal']
+==========
+generating dress number 57
+Hoodie
+parts:
+{'collar': {'v neck'},
+ 'other': {'Hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Blue normal
+all colors
+['Blue normal']
+main material: Jersey
+all materials
+['Jersey', 'Leather', 'Gabardine']
+==========
+generating dress number 58
+Coat
+parts:
+{'collar': {'Collar', 'Wing collar'},
+ 'leg details': {'vent'},
+ 'other': {'Buttons center front', 'fringe', 'Side split'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow', 'Cuff buttons'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'waistband', 'Shoulder scarf', 'shoulder'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Purple normal
+all colors
+['Purple normal']
+main material: Velvet
+all materials
+['Velvet', 'Brocade', 'Silk']
+==========
+generating dress number 59
+Cocktail dress
+parts:
+{'collar': {'Turtle neck'},
+ 'other': {'zipper'},
+ 'skirt': {'Mini skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Fly', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Yellow dark
+all colors
+['Yellow dark', 'Pink dark', 'Blue light']
+main material: Silk
+all materials
+['Silk', 'Metal']
+==========
+generating dress number 60
+bra
+parts:
+{'other': {'strap'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark']
+main material: Plastic
+all materials
+['Plastic', 'Fur', 'Fishnet', 'Jersey']
+==========
+generating dress number 61
+Apron
+parts:
+{'collar': {'Crew neck'},
+ 'other': {'Hip pocket', 'fringe', 'Patch pocket'},
+ 'skirt': {'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'upper details': {'Breast pocket', 'Spagetthi straps'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Pink normal
+all colors
+['Black', 'Pink normal']
+main material: Rubber
+all materials
+['Rubber', 'Taffeta']
+==========
+generating dress number 62
+blouse
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'vent'},
+ 'other': {'fringe', 'Patch pocket'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Shoulder scarf'},
+ 'upper front panel': {'shirtfront'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark', 'White']
+main material: Lace
+all materials
+['Gauze', 'Lace']
+==========
+generating dress number 63
+Coat
+parts:
+{'collar': {'Collar', 'Wing collar'},
+ 'leg details': {'vent'},
+ 'other': {'Hem', 'Bow'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit', 'Skirt hem'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'elbow'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'shoulder', 'Shoulder scarf'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Blue light
+all colors
+['Blue light', 'Black', 'Blue dark']
+main material: Leather
+all materials
+['Leather', 'Lace', 'Velvet']
+==========
+generating dress number 64
+Coat
+parts:
+{'collar': {'Collar', 'Wing collar'},
+ 'leg details': {'vent'},
+ 'other': {'belt', 'fringe', 'Waist', 'zipper', 'Buttons center front'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Bodice front'}}
+main color: Gray light
+all colors
+['Gray light', 'Black', 'White']
+main material: Feathers
+all materials
+['Feathers', 'Lace', 'Fishnet']
+==========
+generating dress number 65
+Wedding dress
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'Stays'},
+ 'other': {'Bow',
+           'Buttons center front',
+           'Side split',
+           'belt',
+           'waistline',
+           'zipper'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt', 'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff slit', 'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Spagetthi straps', 'Shoulder strap'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Yellow normal
+all colors
+['Yellow normal', 'Pink light', 'Blue light', 'Pink dark', 'Black']
+main material: Canvas
+all materials
+['Canvas', 'Tweed', 'Cotton']
+==========
+generating dress number 66
+Babydoll
+parts:
+{'other': {'waistline', 'belt', 'zipper', 'Hem'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Puffy sleeve'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark', 'White', 'Yellow light', 'Pink light']
+main material: Rubber
+all materials
+['Rubber', 'Taffeta']
+==========
+generating dress number 67
+Coat
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'vent'},
+ 'other': {'Hip pocket', 'Bow'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt hem', 'Coat tails'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'elbow'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband', 'shoulder'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Pink dark
+all colors
+['Pink dark', 'Black', 'Yellow dark']
+main material: Jersey
+all materials
+['Jersey', 'Leather']
+==========
+generating dress number 68
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'waistline', 'Lacing'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Blue normal
+all colors
+['Black', 'Blue normal']
+main material: Damask
+all materials
+['Damask', 'Silk', 'Lace']
+==========
+generating dress number 69
+Leotard
+parts:
+{'collar': {'Crew neck'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Yellow normal
+all colors
+['Yellow normal', 'Pink light']
+main material: Flax
+all materials
+['Flax', 'Silk', 'Leather']
+==========
+generating dress number 70
+Hoodie
+parts:
+{'collar': {'Hood'},
+ 'other': {'Patch pocket', 'Bow'},
+ 'sleeve': {'Wide sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket'},
+ 'upper front panel': {'Upper front panel', 'Waterfall front'}}
+main color: Orange dark
+all colors
+['Orange dark', 'Pink light']
+main material: Rabbit Hair
+all materials
+['Rabbit Hair', 'Jersey']
+==========
+generating dress number 71
+Cocktail dress
+parts:
+{'collar': {'Lapel collar'},
+ 'other': {'belt', 'Tied belt', 'Lacing', 'Hem'},
+ 'skirt': {'Mini skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Shoulder scarf', 'waistband'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Pink light
+all colors
+['Pink light']
+main material: Camel Hair
+all materials
+['Camel Hair', 'Satin']
+==========
+generating dress number 72
+Coat
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'vent'},
+ 'other': {'fringe', 'Waist'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails', 'Skirt hem'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff slit', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Shoulder scarf', 'Breast', 'waistband', 'shoulder'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Gray dark
+all colors
+['Black', 'Gray dark']
+main material: Fake Fur
+all materials
+['Fake Fur', 'Leather', 'Latex']
+==========
+generating dress number 73
+Hoodie
+parts:
+{'collar': {'Turtle neck'},
+ 'other': {'Patch pocket', 'Hem', 'Bow'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Blue light
+all colors
+['Blue light', 'Black']
+main material: Cashmere
+all materials
+['Cashmere', 'Latex', 'Leather']
+==========
+generating dress number 74
+Wedding dress
+parts:
+{'collar': {'Collar', 'Hood'},
+ 'leg details': {'Stays'},
+ 'other': {'Side split'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt hem', 'Train (of a dress)'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff slit', 'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'bustboning', 'Spagetthi straps', 'shoulder'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Purple normal
+all colors
+['Purple normal']
+main material: Mohair
+all materials
+['Gabardine', 'Leather', 'Mohair']
+==========
+generating dress number 75
+Kimono
+parts:
+{'collar': {'Collar', 'neckline'},
+ 'other': {'Patch pocket', 'Bow'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Green dark
+all colors
+['Green dark', 'Blue normal']
+main material: Taffeta
+all materials
+['Satin', 'Metal', 'Taffeta']
+==========
+generating dress number 76
+Kimono
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'other': {'waistline', 'belt', 'Waist', 'Patch pocket'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Yellow light
+all colors
+['Yellow light', 'Pink light', 'Blue light']
+main material: Velvet
+all materials
+['Velvet', 'Brocade']
+==========
+generating dress number 77
+Cocktail dress
+parts:
+{'collar': {'Crew neck'},
+ 'other': {'Hem', 'Bow'},
+ 'skirt': {'Mini skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Broad straps'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps', 'Fly'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Orange normal
+all colors
+['Orange normal', 'Pink light']
+main material: Silicone
+all materials
+['Silicone', 'Velvet', 'Silk']
+==========
+generating dress number 78
+Blazer
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'leg details': {'vent'},
+ 'other': {'Buttons center front', 'Hip pocket', 'Bow'},
+ 'skirt details': {'Coat tails'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'sleeve details': {'Cuff buttons', 'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Fly'},
+ 'upper front panel': {'Bodice front'}}
+main color: Blue normal
+all colors
+['Black', 'Blue normal']
+main material: Velvet
+all materials
+['Velvet', 'Brocade', 'Silk']
+==========
+generating dress number 79
+Babydoll
+parts:
+{'other': {'belt', 'zipper', 'Hem'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps', 'waistband'},
+ 'upper front panel': {'Bodice front'}}
+main color: Brown dark
+all colors
+['Brown dark', 'Black', 'White']
+main material: Reticella
+all materials
+['Taffeta', 'Reticella']
+==========
+generating dress number 80
+Corset
+parts:
+{'leg details': {'Stays'},
+ 'other': {'Waist'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning'},
+ 'upper front panel': {'Bodice front'}}
+main color: Red dark
+all colors
+['Black', 'Red normal', 'Red light', 'White', 'Red dark']
+main material: Rabbit Hair
+all materials
+['Rabbit Hair', 'Jersey', 'Gauze']
+==========
+generating dress number 81
+Apron
+parts:
+{'collar': {'v neck'},
+ 'other': {'Waist', 'Hem'},
+ 'skirt': {'Long skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Broad straps'},
+ 'upper details': {'Breast pocket', 'Spagetthi straps', 'Breast'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Blue normal
+all colors
+['Black', 'Blue normal', 'Blue dark']
+main material: Satin
+all materials
+['Satin', 'Silk', 'Velvet']
+==========
+generating dress number 82
+Hoodie
+parts:
+{'collar': {'Hood'},
+ 'other': {'Patch pocket', 'Bow'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast pocket', 'waistband'},
+ 'upper front panel': {'Upper front panel', 'Waterfall front'}}
+main color: Pink normal
+all colors
+['Black', 'Pink normal', 'Pink light', 'Red light']
+main material: Mohair
+all materials
+['Gabardine', 'Leather', 'Mohair']
+==========
+generating dress number 83
+Bustier
+parts:
+{'collar': {'v neck'},
+ 'leg details': {'vent'},
+ 'other': {'Buttons center front', 'strap', 'zipper'},
+ 'sleeve': {'Skinny sleeve'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Breast', 'bustboning'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Brown dark
+all colors
+['Brown dark', 'Black', 'White']
+main material: Jute
+all materials
+['Jute', 'Metal']
+==========
+generating dress number 84
+Leotard
+parts:
+{'collar': {'neckline'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light']
+main material: Fur
+all materials
+['Fur', 'Gabardine', 'Denim']
+==========
+generating dress number 85
+bikini
+parts:
+{'leg details': {'seat', 'Crotch'},
+ 'other': {'fringe', 'strap'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Spagetthi straps'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Brown normal
+all colors
+['Brown normal', 'Black', 'White']
+main material: Rabbit Hair
+all materials
+['Rabbit Hair', 'Jersey']
+==========
+generating dress number 86
+Negligee
+parts:
+{'collar': {'Shawl collar'},
+ 'other': {'waistline', 'Buttons center front', 'Waist', 'Hem'},
+ 'skirt': {'Skirt', 'Long skirt'},
+ 'skirt details': {'Skirt hem'},
+ 'sleeve': {'Puffy sleeve', 'Sleeve'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'waistband', 'Shoulder strap'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Brown dark
+all colors
+['Brown dark', 'Black']
+main material: Linen
+all materials
+['Linen', 'Lace']
+==========
+generating dress number 87
+Kimono
+parts:
+{'collar': {'Collar', 'Stand collar'},
+ 'other': {'belt', 'Tied belt', 'Patch pocket'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Skirt slit', 'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Red light
+all colors
+['Red light', 'Pink light']
+main material: Silk
+all materials
+['Silk', 'Metal', 'Lace']
+==========
+generating dress number 88
+Bustier
+parts:
+{'collar': {'Scoop neck'},
+ 'leg details': {'vent'},
+ 'other': {'Buttons center front', 'Waist', 'zipper'},
+ 'sleeve': {'Wide sleeve'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast', 'Shoulder strap'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Yellow dark
+all colors
+['Yellow dark', 'Pink dark', 'Blue light', 'Black', 'Pink light']
+main material: Taffeta
+all materials
+['Taffeta', 'Satin']
+==========
+generating dress number 89
+Leotard
+parts:
+{'collar': {'neckline'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Tight upper back panel'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: Orange dark
+all colors
+['Orange dark', 'Pink light', 'Pink dark']
+main material: Taffeta
+all materials
+['Satin', 'Metal', 'Taffeta', 'Velvet']
+==========
+generating dress number 90
+Kimono
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'other': {'waistline', 'belt', 'Waist', 'Hem'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Skirt hem'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Loose upper front panel'}}
+main color: Yellow light
+all colors
+['Yellow light', 'Pink light', 'Blue light']
+main material: Tweed
+all materials
+['Tweed', 'Fur', 'Fishnet']
+==========
+generating dress number 91
+Kimono
+parts:
+{'collar': {'Collar', 'Shawl collar'},
+ 'other': {'waistline', 'belt', 'Tied belt', 'Patch pocket'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Gray normal
+all colors
+['Black', 'Gray normal', 'White', 'Gray dark']
+main material: Gingham
+all materials
+['Silk', 'Gingham']
+==========
+generating dress number 92
+Babydoll
+parts:
+{'other': {'waistline', 'belt'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt', 'Skirt hem'},
+ 'sleeve': {'Puffy sleeve'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'waistband', 'Shoulder strap'},
+ 'upper front panel': {'Bodice front'}}
+main color: Red dark
+all colors
+['Red dark', 'Black']
+main material: Feathers
+all materials
+['Feathers', 'Lace', 'Fishnet']
+==========
+generating dress number 93
+bra
+parts:
+{'other': {'strap'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Breast'},
+ 'upper front panel': {'Bodice front'}}
+main color: Purple light
+all colors
+['Pink light', 'Black', 'Purple light']
+main material: Muslin
+all materials
+['Muslin', 'Lace']
+==========
+generating dress number 94
+Raincoat
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'other': {'Buttons center front', 'Tied belt', 'Hip pocket'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Coat tails'},
+ 'sleeve': {'Kimono sleeve', 'Sleeve'},
+ 'sleeve details': {'cuffs'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Breast pocket', 'Breast'},
+ 'upper front panel': {'Upper front panel', 'Loose upper front panel'}}
+main color: Orange light
+all colors
+['Pink light', 'Orange light', 'Blue light']
+main material: Muslin
+all materials
+['Muslin']
+==========
+generating dress number 95
+Wedding dress
+parts:
+{'collar': {'Collar', 'Crew neck'},
+ 'leg details': {'vent', 'Stays'},
+ 'other': {'Side split', 'zipper', 'Patch pocket'},
+ 'skirt': {'Skirt', 'Knee-long skirt'},
+ 'skirt details': {'Skirt slit', 'Train (of a dress)'},
+ 'sleeve': {'Sleeve', 'Skinny sleeve'},
+ 'sleeve details': {'Cuff buttons'},
+ 'upper back panel': {'Loose upper back panel'},
+ 'upper details': {'Shoulder scarf', 'shoulder'},
+ 'upper front panel': {'Tight upper front panel'}}
+main color: White
+all colors
+['White']
+main material: Silk
+all materials
+['Silk', 'Metal', 'Lace']
+==========
+generating dress number 96
+bra
+parts:
+{'other': {'strap'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'bustboning', 'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Orange dark
+all colors
+['Orange dark', 'Pink light']
+main material: Cotton
+all materials
+['Cotton', 'Mohair', 'Lace']
+==========
+generating dress number 97
+Babydoll
+parts:
+{'other': {'strap', 'belt', 'zipper'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt'},
+ 'sleeve': {'Puffy sleeve'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Shoulder strap', 'Spagetthi straps', 'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Green dark
+all colors
+['Green dark', 'Blue normal']
+main material: Gauze
+all materials
+['Gauze', 'Lace']
+==========
+generating dress number 98
+Babydoll
+parts:
+{'other': {'belt', 'zipper', 'Hem'},
+ 'skirt': {'Mini skirt', 'Skirt'},
+ 'skirt details': {'Underskirt'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Waterfall back'},
+ 'upper details': {'Spagetthi straps', 'waistband'},
+ 'upper front panel': {'Waterfall front'}}
+main color: Green normal
+all colors
+['Green normal', 'Pink dark', 'Pink light', 'Blue light', 'Black']
+main material: Gabardine
+all materials
+['Gabardine', 'Fur']
+==========
+generating dress number 99
+Leotard
+parts:
+{'collar': {'v neck'},
+ 'sleeve': {'Broad straps'},
+ 'upper back panel': {'Bodice back'},
+ 'upper details': {'Spagetthi straps'},
+ 'upper front panel': {'Bodice front'}}
+main color: Green normal
+all colors
+['Green normal', 'Pink dark']
+main material: Flax
+all materials
+['Flax', 'Silk', 'Leather']
